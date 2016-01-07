@@ -1,7 +1,82 @@
-body{
-    background-color: #3e3e3e;
-    color: #fff;
+*{
+    outline: 1px solid red;
 }
 
-.text-magenta{color: magenta;
+
+html{
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+header{
+    height: 80px;
+    background-color: #9A00FF;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;
+    border: 5px solid #000;
+}
+
+
+.main-content-container{
+    min-height: 800px}
+
+
+.body-content{
+    width: 70%;
+    display: inline-block;
+}
+
+.main-container-sidebar{
+    border: 1px solid;
+    display: inline-block;
+    
+}
+
+.main-container-sidebar.left{
+    width: 12%;
+    float: left;
+}
+
+.main-container-sidebar.right{
+    width: 17%;
+    float: right;
+}
+
+.article-title{
+    border-top: 20px solid #cfe2f3;
+    padding-top: 20px;
+    text-align: center;
+	font-size: 30px;
+}
+    
+
+footer{
+     height: 200px;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    border: 5px solid #000;
+    clear: both;
+}
+
+.side-article{
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.side-article:hover{
+    background-color: magenta;
+    color: aqua;
+    margin: 40px 0;
+    border: 4px dotted salmon;
+}
+
+.img-placeholder{
+    height: 100px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+.side-article-title{
+	border-bottom: 1px solid #000;
 }
