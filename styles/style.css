@@ -24,12 +24,11 @@ li {color: cornsilk; font-size: 16px;
 
 
 header{
-    height: 80px;
+    height: 100px;
     background-color: darkgoldenrod; 
     font-size: xx-large;
     text-align: center;
     border: 5px solid #000;
-    text-color: red
 }
 
 .body-content{
