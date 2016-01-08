@@ -3,11 +3,14 @@ html{
     font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+body{
+    background-color: black;
+}
 
 .profile-picture{
-    border-radius: 3px;
-    height: 280px;
-    border-radius: 100px;
+    
+    border-radius: 10px;
+    max-height: 50px;
 }
 
 .profile-image{
