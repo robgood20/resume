@@ -10,7 +10,7 @@ body{
 .profile-picture{
     
     border-radius: 10px;
-    max-height: 50px;
+    max-height: 200px;
 }
 
 .profile-image{
@@ -22,7 +22,7 @@ body{
     font-size: 30px;
    }
 
-li {color: cornsilk; font-size: 16px;
+li {color: black; font-size: 16px;
 }
 
 
