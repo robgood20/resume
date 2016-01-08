@@ -317,7 +317,7 @@ HOBBIES
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 5px 5px 25px;
-  background: #A75265;
+  background:#545392;
   position: relative;
   font-size: 1.2em;
 }
@@ -450,6 +450,8 @@ footer{
 }
 
 #name{
+    font-size: 64px;
+    font-weight: bold;
     color: red;
 }
 
