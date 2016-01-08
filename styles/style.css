@@ -90,3 +90,7 @@ footer{
 .side-article-title{
 	border-bottom: 1px solid #000;
 }
+
+#name{
+    color: black;
+}
